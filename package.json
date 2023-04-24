@@ -1,6 +1,6 @@
 {
   "name": "reverse-string",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "reverse-string ",
   "main": "index.js",
   "scripts": {
